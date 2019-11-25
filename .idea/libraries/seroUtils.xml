@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="seroUtils">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Modbus for Java/seroUtils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

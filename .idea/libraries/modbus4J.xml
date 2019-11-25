@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="modbus4J">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Modbus for Java/modbus4J.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
